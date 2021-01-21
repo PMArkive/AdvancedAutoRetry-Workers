@@ -13,4 +13,4 @@ Installation is too complex to maintain a proper tutorial for, feel free to cont
 
 Some key points if you're doing the latter:
 - IPv6 needs to be disabled on the Cloudflare domain so the IPs match what they're using to connect to the gameserver
-- Due to the 1000 KV write limit on the free workers plan, you need to subscribe to Workers Bundled if you intend to use this on a server where more than 1k map download requests can happen per day
+- Due to the 1000 KV write limit on the free workers plan, you need to subscribe to Workers Bundled if you intend to use this on a server where more than 1000 map download requests can happen per day
